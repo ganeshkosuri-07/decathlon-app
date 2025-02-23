@@ -61,7 +61,7 @@ npm start
 
 
 ## Demo video
-
+[demo video of the decathlon application](https://vimeo.com/1059400494?share=copy#t=0)
 
 ## Technologies used
 - Frontend: React, CSS (with responsive design principles).
