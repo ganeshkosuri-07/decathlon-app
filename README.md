@@ -34,7 +34,7 @@ npm install
 ```
 ### 4.Start the application
 ```bash
-npm Start
+npm start
 ```
 The app will be available at http://localhost:3000.
 ### 5.If error occurs to start the application use this commands
