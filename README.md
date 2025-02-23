@@ -51,13 +51,13 @@ npm start
 
 ## Screenshots
 
-![1.Interface](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![1.Interface](screenshot1.png)
 
-![2.Adding data](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![2.Adding data](screenshot2.png)
 
-![3.Score card](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![3.Score card](screenshot3.png)
 
-![4.Score card](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![4.Score card](screenshot4.png)
 
 
 
