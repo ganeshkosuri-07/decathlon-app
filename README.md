@@ -78,4 +78,4 @@ npm start
 Scoring formulas are based on official decathlon scoring rules.
 ## Contact
 - Email: kosuriganesh07@gmail.com
-- LinkedIn:[![Here is my profile ](https://www.linkedin.com/in/ganesh-kosuri-a48357295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+- LinkedIn:[Here is my profile ](https://www.linkedin.com/in/ganesh-kosuri-a48357295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
